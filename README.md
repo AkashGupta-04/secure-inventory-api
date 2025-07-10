@@ -73,7 +73,7 @@ http://localhost:5000
 | DELETE | `/api/items/:id` | Delete item     |
 
 ##📬 Contact
-Made with ❤️ by [Akash Gupta](https://github.com/AkashGupta-04)
+Made with by Akash Gupta
 
 ##📜 License
 This project is licensed under the MIT License.
